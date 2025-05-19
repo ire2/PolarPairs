@@ -75,6 +75,7 @@
 
 ## 👥 Team
   -    Ignacio Estrada – Lead UX & Game Design, Project Management
+    
 ⸻
 
 ## ✨ Acknowledgments
