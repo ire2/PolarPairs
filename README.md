@@ -39,7 +39,7 @@
 ### Prerequisites
 
 - CUGL engine set up for mobile deployment
-- CMake and Android NDK (if building for Android)
+- CMake, Android NDK, or Apple (Best in Apple and Android)
 - Git LFS (for asset management, if needed)
 
 ### Build Instructions
