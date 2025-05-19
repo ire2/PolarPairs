@@ -74,13 +74,13 @@
 ⸻
 
 ## 👥 Team
-  •    Ignacio Estrada – Lead UX & Game Design, Project Management
-  •    (Add other team members here)
+  -    Ignacio Estrada – Lead UX & Game Design, Project Management
+  -    (Add other team members here)
 
 ⸻
 
 ## ✨ Acknowledgments
-  •    Built as part of the Cornell University Game Design capstone.
-  •    Special thanks to the course staff and the CUGL development team.
+  -    Built as part of the Cornell University Game Design capstone.
+  -    Special thanks to the course staff and the CUGL development team.
 
 ⸻
