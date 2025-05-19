@@ -48,8 +48,7 @@
    ```bash
    git clone https://github.com/yourusername/polar-pairs.git
     ```
-2.    Set up CUGL dependencies.
-3.    Build using Apple, Android Studio or CMake.
+2.    Build using Apple, Android Studio or CMake folders within build folder.
 4.    Run on mobile device or emulator.
 
 ---
