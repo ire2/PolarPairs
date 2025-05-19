@@ -52,14 +52,14 @@
 3.    Build using Apple, Android Studio or CMake.
 4.    Run on mobile device or emulator.
 
-⸻
+---
 
 ## 🧪 Testing and Debugging
     •    Modular level testing using mock .txt files
     •    Debug toggle overlays for collision tiles
     •    Event-based logging for character actions and tile interactions
 
-⸻
+---
 
 ## 📁 File Structure
 ```
@@ -71,15 +71,15 @@
   └── LevelData              # Loads and interprets .txt levels
 ```
 
-⸻
+---
 
 ## 👥 Team
   -    Ignacio Estrada – Lead UX & Game Design, Project Management
-    
-⸻
+
+---
 
 ## ✨ Acknowledgments
   -    Built as part of the Cornell University Game Design capstone.
   -    Special thanks to the course staff and the CUGL development team.
 
-⸻
+---
