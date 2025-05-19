@@ -1,0 +1,286 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "cugl.dir/libcugl-scene3.a"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"/Users/ignacioestrada/game_design/cugl/buildfiles/android/jni/cugl/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 128,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 129,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC"
+				},
+				{
+					"fragment" : "-std=gnu++20"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 2,
+					"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/cugl.dir"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/jni/../../../../../../cugl/sdlapp/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/jni/../../../../../../cugl/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/jni/../../../../../../cugl/external/box2d/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/jni/../../../../../../cugl/external/poly2tri/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/jni/../../../../../../cugl/external/libdatachannel/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/Users/ignacioestrada/game_design/cugl/buildfiles/android/jni/cugl/../../../../include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/Users/ignacioestrada/game_design/cugl/buildfiles/android/jni/cugl/../../../../sdlapp/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/Users/ignacioestrada/game_design/cugl/buildfiles/android/jni/cugl/../../../../external/poly2tri"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/Users/ignacioestrada/game_design/cugl/buildfiles/android/jni/cugl/../../../../external/box2d/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/Users/ignacioestrada/game_design/cugl/buildfiles/android/jni/cugl/../../../../external/libdatachannel/include"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/Users/ignacioestrada/Library/Android/sdk/ndk/25.1.8937393/sources/android/cpufeatures"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "20"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17
+			],
+			"sysroot" : 
+			{
+				"path" : "/Users/ignacioestrada/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot"
+			}
+		}
+	],
+	"id" : "cugl-scene3::@d4cbbc5a9c7fb51d83b7",
+	"name" : "cugl-scene3",
+	"nameOnDisk" : "libcugl-scene3.a",
+	"paths" : 
+	{
+		"build" : "cugl.dir",
+		"source" : "/Users/ignacioestrada/game_design/cugl/buildfiles/android/jni/cugl"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/scene3/CUBillboardBatch.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/scene3/CUBillboardNode.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/scene3/CUBillboardShader.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/scene3/CUGimbal.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/scene3/CUMaterial.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/scene3/CUMtlLoader.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/scene3/CUObjBatch.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/scene3/CUObjLoader.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/scene3/CUObjModel.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/scene3/CUObjNode.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/scene3/CUObjParser.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/scene3/CUObjShader.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/scene3/CUParticleBatch.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/scene3/CUParticleNode3.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/scene3/CUScene3.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/scene3/CUScene3Loader.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/scene3/CUScene3Pipeline.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/scene3/CUSceneNode3.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

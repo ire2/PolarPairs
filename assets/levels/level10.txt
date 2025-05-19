@@ -1,0 +1,15 @@
+Level 9
+7 11
+*.....^
+X....XX
+XX....X
+X..X&XX
+XX.X.X.
+XX$X&&X
+X!.!$!X
+X....!X
+X.X!X.X
+X...BXX
+X.S....
+22
+22

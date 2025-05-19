@@ -1,0 +1,27 @@
+---
+name:   Polar Pairs                  # The application display name
+short:  Polar Pairs                       # A shortened name for reference
+appid:  edu.cornell.gdiac.skip_class     # Application identifier for Mac, iOS, Android
+suffix: G8F90BAA
+
+build:  build                       # The build directory (targets are each a subdirectory)
+assets: assets                      # The folder with the game assets (do not list asset)
+
+orientation: portrait              # The orientation for mobile devices
+
+sources:                            # The list of the source code files
+    - source/*.cpp
+    - source/*.h
+
+# This must be one of portrait, landscape, portrait-flipped, landscape-flipped,
+targets:                        # The target platforms to build for
+    - android                   # Android Studio
+    - apple                     # XCode (note macOS and iOS use one project)
+    - windows                   # Windows Sisual Studio
+    - cmake
+                    # This supports all Desktop platforms
+icon:
+  image: assets/textures/icon.png      # <- 1024x1024, used for the actual app icon
+  background: "#016BC1"       # or your brand color
+  transparent: false          # must be false for Android/iOS
+  rounded: true               # mobile icons will look like standard iOS/Android apps

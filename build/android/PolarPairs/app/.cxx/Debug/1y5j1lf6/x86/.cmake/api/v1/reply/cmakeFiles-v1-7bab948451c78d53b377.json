@@ -1,0 +1,3271 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeDetermineSystem.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/ndk/25.1.8937393/build/cmake/android-legacy.toolchain.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/ndk/25.1.8937393/build/cmake/platforms.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Android-Determine.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/ndk/25.1.8937393/build/cmake/hooks/pre/Android-Determine.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeSystem.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/CMakeFiles/3.22.1-g37088a8/CMakeSystem.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/ndk/25.1.8937393/build/cmake/android.toolchain.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Android-Initialize.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/ndk/25.1.8937393/build/cmake/hooks/pre/Android-Initialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeDetermineCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeDetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Android-Determine-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Android/Determine-Compiler.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/ndk/25.1.8937393/build/cmake/hooks/pre/Determine-Compiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeDetermineCompilerId.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCompilerIdDetection.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/ADSP-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/ARMCC-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/ARMClang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/AppleClang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Clang-DetermineCompilerInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Borland-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Bruce-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Clang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Clang-DetermineCompilerInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Compaq-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Cray-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Embarcadero-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Fujitsu-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/GHS-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/GNU-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/HP-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/IAR-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Intel-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/MSVC-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/NVHPC-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/NVIDIA-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/PGI-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/PathScale-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/SCO-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/SDCC-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/SunPro-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/TI-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Watcom-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/XL-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/XLClang-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/zOS-C-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeFindBinUtils.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Clang-FindBinUtils.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCCompiler.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/CMakeFiles/3.22.1-g37088a8/CMakeCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeDetermineCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeDetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Android-Determine-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Android/Determine-Compiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeDetermineCompilerId.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCompilerIdDetection.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/ADSP-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/ARMCC-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/ARMClang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/AppleClang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Clang-DetermineCompilerInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Borland-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Clang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Clang-DetermineCompilerInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Cray-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Embarcadero-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Fujitsu-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/GHS-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/HP-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/IAR-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Intel-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/MSVC-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/NVHPC-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/NVIDIA-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/PGI-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/PathScale-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/SCO-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/TI-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Watcom-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/XL-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeFindBinUtils.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Clang-FindBinUtils.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCXXCompiler.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/CMakeFiles/3.22.1-g37088a8/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Android.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/ndk/25.1.8937393/build/cmake/hooks/pre/Android.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Linux.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Clang-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Android-Clang-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Android-Clang.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/ndk/25.1.8937393/build/cmake/hooks/pre/Android-Clang.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/ndk/25.1.8937393/build/cmake/flags.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeTestCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeTestCompilerCommon.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeDetermineCompilerABI.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeParseImplicitIncludeInfo.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeParseImplicitLinkInfo.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeParseLibraryArchitecture.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeTestCompilerCommon.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCCompilerABI.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeDetermineCompileFeatures.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Internal/FeatureTesting.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCCompiler.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/CMakeFiles/3.22.1-g37088a8/CMakeCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Clang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Compiler/Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Android-Clang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Platform/Android-Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeTestCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeTestCompilerCommon.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeDetermineCompilerABI.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeParseImplicitIncludeInfo.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeParseImplicitLinkInfo.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeParseLibraryArchitecture.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeTestCompilerCommon.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCXXCompilerABI.cpp"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeDetermineCompileFeatures.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Internal/FeatureTesting.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCXXCompiler.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/CMakeFiles/3.22.1-g37088a8/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/AndroidNdkModules.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/buildfiles/android/jni/cugl/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/buildfiles/cmake/external/poly2tri/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/buildfiles/cmake/external/box2d/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/buildfiles/cmake/external/box2d/src/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakePackageConfigHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/WriteBasicConfigVersionFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/BasicConfigVersion-SameMajorVersion.cmake.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/buildfiles/cmake/external/libdatachannel/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.c.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckForPthreads.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindOpenSSL.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindPkgConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/buildfiles/cmake/external/libdatachannel/deps/plog/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/buildfiles/cmake/external/libdatachannel/deps/usrsctp/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckStructHasMember.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckCCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Internal/CheckCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/CMakeFiles/CheckIncludeFiles/have_sys_queue_h.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/CMakeFiles/CheckIncludeFiles/have_linux_if_addr_h.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/CMakeFiles/CheckIncludeFiles/have_linux_rtnetlink_h.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/CMakeFiles/CheckIncludeFiles/have_netinet_ip_icmp_h.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/CMakeFiles/CheckIncludeFiles/have_net_route_h.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/CMakeFiles/CheckIncludeFiles/have_stdatomic_h.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.c.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/buildfiles/cmake/external/libdatachannel/deps/usrsctp/usrsctplib/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckCCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/buildfiles/cmake/external/libdatachannel/deps/openssl/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckTypeSize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFileCXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.c.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.c.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.c.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckTypeSize.c.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/CMakeFiles/CheckTypeSize/LONG_INT.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckTypeSize.c.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/CMakeFiles/CheckTypeSize/LONG_LONG_INT.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckTypeSize.c.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/CMakeFiles/CheckTypeSize/INT.c"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/cugl.dir/libdatachannel.dir/deps/openssl/opensslconf.h.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/buildfiles/cmake/external/libdatachannel/deps/openssl/modules/cmake_uninstall.cmake.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CPack.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CPackComponent.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Templates/CPackConfig.cmake.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Templates/CPackConfig.cmake.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/buildfiles/cmake/external/libdatachannel/deps/openssl/crypto/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/external/openssl/crypto/buildinf.h.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.c.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/external/openssl/crypto/bn_conf.h.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/external/openssl/crypto/dso_conf.h.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/buildfiles/cmake/external/libdatachannel/deps/openssl/ssl/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/buildfiles/cmake/external/libdatachannel/deps/libsrtp/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/TestBigEndian.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckTypeSize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFileCXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckFunctionExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckTypeSize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFileCXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.c.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.c.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.c.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.c.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.c.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.c.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.c.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.c.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.c.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.c.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.c.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckFunctionExists.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckFunctionExists.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckFunctionExists.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckFunctionExists.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckTypeSize.c.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/CMakeFiles/CheckTypeSize/UINT8_T.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckTypeSize.c.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/CMakeFiles/CheckTypeSize/UINT16_T.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckTypeSize.c.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/CMakeFiles/CheckTypeSize/UINT32_T.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckTypeSize.c.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/CMakeFiles/CheckTypeSize/UINT64_T.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckTypeSize.c.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/CMakeFiles/CheckTypeSize/INT32_T.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckTypeSize.c.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/CMakeFiles/CheckTypeSize/SIZEOF_UNSIGNED_LONG.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckTypeSize.c.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/CMakeFiles/CheckTypeSize/SIZEOF_UNSIGNED_LONG_LONG.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindOpenSSL.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindPkgConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/buildfiles/cmake/external/libdatachannel/deps/libsrtp/config_in_cmake.h"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/buildfiles/cmake/external/libdatachannel/deps/libjuice/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/modules/sdlplatform.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckLanguage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckSymbolExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckCSourceRuns.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Internal/CheckSourceRuns.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckCCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckCXXCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/Internal/CheckCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckStructHasMember.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeDependentOption.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakePushCheckState.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindPkgConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2/modules/macros.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2/modules/sdlchecks.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2/modules/sdlfind.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2/modules/sdlplatform.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2/modules/CheckCPUArchitecture.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakePushCheckState.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.c.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.c.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.c.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.c.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.c.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.c.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.c.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.c.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.c.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.c.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.c.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.c.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.c.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.c.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/CMakeFiles/CheckIncludeFiles/STDC_HEADERS.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckFunctionExists.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.c.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/CMakeFiles/CheckIncludeFiles/HAVE_PTHREAD_H.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/CMakeFiles/CheckIncludeFiles/HAVE_PTHREAD_NP_H.c"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2/modules/SDL_config.h.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindGit.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2/modules/SDL_revision.h.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2/modules/sdl2.pc.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2/modules/sdl2-config.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2/modules/SDL2.spec.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2/modules/cmake_uninstall.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/sdl2pckg.dir/sdl2/SDL_config.h.intermediate"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2image/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2image/modules/PrivateSdlFunctions.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeDependentOption.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakePackageConfigHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/WriteBasicConfigVersionFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakePushCheckState.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2ttf/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2ttf/modules/PrivateSdlFunctions.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeDependentOption.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakePackageConfigHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/WriteBasicConfigVersionFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckSymbolExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakePushCheckState.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2ttf/external/harfbuzz/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindPythonInterp.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckFunctionExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckFunctionExists.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckFunctionExists.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckFunctionExists.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckFunctionExists.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.c.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.c.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckFunctionExists.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckFunctionExists.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckFunctionExists.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckCXXCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2ttf/external/freetype/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeDependentOption.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindPkgConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.c.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/modules/PrivateSdlFunctions.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeDependentOption.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakePackageConfigHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/WriteBasicConfigVersionFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakePushCheckState.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/ogg/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakePackageConfigHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/WriteBasicConfigVersionFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/CMakeFiles/CheckIncludeFiles/INCLUDE_INTTYPES_H.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/CMakeFiles/CheckIncludeFiles/INCLUDE_STDINT_H.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeConfigurableFile.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/CMakeFiles/CheckIncludeFiles/INCLUDE_SYS_TYPES_H.c"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/ogg/modules/CheckSizes.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckTypeSize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFileCXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckTypeSize.c.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/CMakeFiles/CheckTypeSize/INT16_SIZE.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckTypeSize.c.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/CMakeFiles/CheckTypeSize/UINT16_SIZE.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckTypeSize.c.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/CMakeFiles/CheckTypeSize/U_INT16_SIZE.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckTypeSize.c.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/CMakeFiles/CheckTypeSize/INT32_SIZE.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckTypeSize.c.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/CMakeFiles/CheckTypeSize/UINT32_SIZE.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckTypeSize.c.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/CMakeFiles/CheckTypeSize/U_INT32_SIZE.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckTypeSize.c.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/CMakeFiles/CheckTypeSize/INT64_SIZE.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckTypeSize.c.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/CMakeFiles/CheckTypeSize/SHORT_SIZE.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckTypeSize.c.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/CMakeFiles/CheckTypeSize/INT_SIZE.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckTypeSize.c.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/CMakeFiles/CheckTypeSize/LONG_SIZE.c"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckTypeSize.c.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/CMakeFiles/CheckTypeSize/LONG_LONG_SIZE.c"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/external/ogg/include/ogg/config_types.h.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/external/ogg/ogg.pc.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakePackageConfigHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/WriteBasicConfigVersionFile.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/ogg/modules/OggConfig.cmake.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/BasicConfigVersion-SameMajorVersion.cmake.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CPack.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CPackComponent.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Templates/CPackConfig.cmake.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Templates/CPackConfig.cmake.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/flac/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindIconv.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakePushCheckState.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakePackageConfigHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/WriteBasicConfigVersionFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckCCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckCXXCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckSymbolExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckFunctionExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/flac/modules/UseSystemExtensions.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/TestBigEndian.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckTypeSize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFileCXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.c.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.c.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/external/flac/config.cmake.h.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/external/flac/flac-config.cmake.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/flac/src/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/flac/src/libFLAC/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.c.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFile.c.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/flac/modules/CheckCPUArch.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/flac/modules/CheckA64NEON.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/flac/modules/CheckCPUArch.c.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/flac/modules/CheckCPUArch.c.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/flac/src/share/replaygain_analysis/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/flac/src/share/replaygain_synthesis/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/flac/src/share/getopt/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindIntl.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakePushCheckState.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/flac/src/share/utf8/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/flac/src/share/grabbag/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/vorbis/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CTest.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CTestUseLaunchers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckIncludeFiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/external/vorbis/vorbis.pc.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/external/vorbis/vorbisenc.pc.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/external/vorbis/vorbisfile.pc.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/vorbis/lib/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakePackageConfigHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/WriteBasicConfigVersionFile.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/vorbis/modules/VorbisConfig.cmake.in"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/BasicConfigVersion-SameMajorVersion.cmake.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/kissfft/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2app/CMakeLists.txt"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2app/modules/PrivateSdlFunctions.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeDependentOption.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakePackageConfigHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/WriteBasicConfigVersionFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakePushCheckState.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/share/cmake-3.22/Modules/CheckCSourceCompiles.cmake"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86",
+		"source" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/jni"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

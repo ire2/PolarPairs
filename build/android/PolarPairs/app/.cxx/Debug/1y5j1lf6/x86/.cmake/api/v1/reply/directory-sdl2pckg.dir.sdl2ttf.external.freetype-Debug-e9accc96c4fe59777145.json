@@ -1,0 +1,63 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2ttf/external/freetype/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 596,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 604,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "headers",
+			"destination" : "include/freetype2",
+			"paths" : 
+			[
+				{
+					"from" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2ttf/external/freetype/include",
+					"to" : "."
+				}
+			],
+			"type" : "directory"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "headers",
+			"destination" : "include/freetype2/freetype/config",
+			"paths" : 
+			[
+				"/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/sdl2pckg.dir/sdl2ttf/external/freetype/include/freetype/config/ftconfig.h",
+				"/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/sdl2pckg.dir/sdl2ttf/external/freetype/include/freetype/config/ftoption.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "sdl2pckg.dir/sdl2ttf/external/freetype",
+		"source" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2ttf/external/freetype"
+	}
+}

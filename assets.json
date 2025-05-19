@@ -1,0 +1,102 @@
+{
+  "textures": {
+    "logo": {
+      "file": "textures/Logo.png",
+      "minfilter": "linear-linear",
+      "magfilter": "linear",
+      "mipmaps": true,
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "snowground": {
+      "file": "textures/SnowGround.png",
+      "minfilter": "nearest",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "regularblock": {
+      "file": "textures/regularblock.png",
+      "minfilter": "nearest",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "bearblock": {
+      "file": "textures/BearBlock.png",
+      "minfilter": "nearest",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "penguinblock": {
+      "file": "textures/PenguinBlock.png",
+      "minfilter": "nearest",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "polarbear": {
+      "file": "textures/PolarBear.png",
+      "minfilter": "nearest",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "penguin": {
+      "file": "textures/Penguin.png",
+      "minfilter": "nearest",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "breakableblock": {
+      "file": "textures/BreakableBlock.png",
+      "minfilter": "nearest",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "bearfinish": {
+      "file": "textures/BearFinish.png",
+      "minfilter": "nearest",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "penguinfinish": {
+      "file": "textures/PenguinFinish.png",
+      "minfilter": "nearest",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "StartButton": {
+      "file": "textures/StartButton.png",
+      "minfilter": "linear",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Restart": {
+      "file": "textures/Restart.png",
+      "minfilter": "linear",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Exit": {
+      "file": "textures/Exit.png",
+      "minfilter": "linear",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    }
+  },
+  "fonts": {
+    "retro": {
+      "file": "fonts/RetroGame.ttf",
+      "size": 64
+    }
+  }
+}

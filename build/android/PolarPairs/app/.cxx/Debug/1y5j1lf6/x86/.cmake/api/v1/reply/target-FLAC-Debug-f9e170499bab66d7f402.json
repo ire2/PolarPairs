@@ -1,0 +1,571 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "sdl2pckg.dir/sdl2atk/external/flac/src/libFLAC/libFLAC.a"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"install",
+			"target_link_libraries",
+			"add_compile_options",
+			"target_compile_options",
+			"target_compile_definitions",
+			"add_definitions",
+			"include",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/flac/src/libFLAC/CMakeLists.txt",
+			"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/flac/CMakeLists.txt",
+			"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/flac/modules/UseSystemExtensions.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 39,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 119,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 92,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 176,
+				"parent" : 4
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 192,
+				"parent" : 4
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 109,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 114,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 81,
+				"parent" : 0
+			},
+			{
+				"command" : 6,
+				"file" : 1,
+				"line" : 206,
+				"parent" : 4
+			},
+			{
+				"command" : 6,
+				"file" : 1,
+				"line" : 198,
+				"parent" : 4
+			},
+			{
+				"command" : 7,
+				"file" : 1,
+				"line" : 104,
+				"parent" : 4
+			},
+			{
+				"file" : 2,
+				"parent" : 12
+			},
+			{
+				"command" : 6,
+				"file" : 2,
+				"line" : 54,
+				"parent" : 13
+			},
+			{
+				"command" : 8,
+				"file" : 1,
+				"line" : 195,
+				"parent" : 4
+			},
+			{
+				"command" : 8,
+				"file" : 1,
+				"line" : 197,
+				"parent" : 4
+			},
+			{
+				"command" : 8,
+				"file" : 0,
+				"line" : 37,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-Wall -Wextra -Wstrict-prototypes -Wmissing-prototypes -Waggregate-return -Wcast-align -Wnested-externs -Wshadow -Wundef -Wmissing-declarations -Winline -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC"
+				},
+				{
+					"backtrace" : 5,
+					"fragment" : "-Wdeclaration-after-statement"
+				},
+				{
+					"backtrace" : 6,
+					"fragment" : "-mstackrealign"
+				},
+				{
+					"backtrace" : 7,
+					"fragment" : "-fassociative-math"
+				},
+				{
+					"backtrace" : 7,
+					"fragment" : "-fno-signed-zeros"
+				},
+				{
+					"backtrace" : 7,
+					"fragment" : "-fno-trapping-math"
+				},
+				{
+					"backtrace" : 7,
+					"fragment" : "-freciprocal-math"
+				},
+				{
+					"backtrace" : 8,
+					"fragment" : "-pthread"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 9,
+					"define" : "FLAC__NO_DLL"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "FLAC__OVERFLOW_DETECT"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "HAVE_CONFIG_H"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "_DARWIN_C_SOURCE"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "_POSIX_PTHREAD_SEMANTICS"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "_TANDEM_SOURCE"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "__STDC_WANT_IEC_60559_BFP_EXT__"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "__STDC_WANT_IEC_60559_DFP_EXT__"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "__STDC_WANT_IEC_60559_FUNCS_EXT__"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "__STDC_WANT_IEC_60559_TYPES_EXT__"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "__STDC_WANT_LIB_EXT2__"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "__STDC_WANT_MATH_SPEC_FUNCS__"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 15,
+					"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/flac/include"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/sdl2pckg.dir/sdl2atk/external/flac"
+				},
+				{
+					"backtrace" : 17,
+					"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/flac/src/libFLAC/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/ogg/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/sdl2pckg.dir/sdl2atk/external/ogg/include"
+				}
+			],
+			"language" : "C",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				29,
+				30,
+				31,
+				32,
+				33
+			],
+			"sysroot" : 
+			{
+				"path" : "/Users/ignacioestrada/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot"
+			}
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 3,
+			"id" : "ogg::@8d925c2cbb0d4e780e78"
+		}
+	],
+	"folder" : 
+	{
+		"name" : "Libraries"
+	},
+	"id" : "FLAC::@2d4264331f8f6549d11d",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 2,
+				"path" : "lib"
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "/usr/local"
+		}
+	},
+	"name" : "FLAC",
+	"nameOnDisk" : "libFLAC.a",
+	"paths" : 
+	{
+		"build" : "sdl2pckg.dir/sdl2atk/external/flac/src/libFLAC",
+		"source" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/flac/src/libFLAC"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/external/flac/src/libFLAC/bitmath.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/external/flac/src/libFLAC/bitreader.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/external/flac/src/libFLAC/bitwriter.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/external/flac/src/libFLAC/cpu.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/external/flac/src/libFLAC/crc.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/external/flac/src/libFLAC/fixed.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/external/flac/src/libFLAC/fixed_intrin_sse2.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/external/flac/src/libFLAC/fixed_intrin_ssse3.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/external/flac/src/libFLAC/fixed_intrin_sse42.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/external/flac/src/libFLAC/fixed_intrin_avx2.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/external/flac/src/libFLAC/float.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/external/flac/src/libFLAC/format.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/external/flac/src/libFLAC/lpc.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/external/flac/src/libFLAC/lpc_intrin_neon.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/external/flac/src/libFLAC/lpc_intrin_sse2.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/external/flac/src/libFLAC/lpc_intrin_sse41.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/external/flac/src/libFLAC/lpc_intrin_avx2.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/external/flac/src/libFLAC/lpc_intrin_fma.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/external/flac/src/libFLAC/md5.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/external/flac/src/libFLAC/memory.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/external/flac/src/libFLAC/metadata_iterators.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/external/flac/src/libFLAC/metadata_object.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/external/flac/src/libFLAC/stream_decoder.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/external/flac/src/libFLAC/stream_encoder.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/external/flac/src/libFLAC/stream_encoder_intrin_sse2.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/external/flac/src/libFLAC/stream_encoder_intrin_ssse3.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/external/flac/src/libFLAC/stream_encoder_intrin_avx2.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/external/flac/src/libFLAC/stream_encoder_framing.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/external/flac/src/libFLAC/version.rc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/external/flac/src/libFLAC/window.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/external/flac/src/libFLAC/ogg_decoder_aspect.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/external/flac/src/libFLAC/ogg_encoder_aspect.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/external/flac/src/libFLAC/ogg_helper.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/sdlapp/external/flac/src/libFLAC/ogg_mapping.c",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

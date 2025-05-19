@@ -1,0 +1,136 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/vorbis/lib/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 119,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 121,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 134,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 150,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "/usr/local/include/vorbis",
+			"paths" : 
+			[
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/vorbis/include/vorbis/codec.h",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/vorbis/include/vorbis/vorbisenc.h",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/vorbis/include/vorbis/vorbisfile.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"sdl2pckg.dir/sdl2atk/external/vorbis/lib/libvorbis.a"
+			],
+			"targetId" : "vorbis::@1e61c11abda5a6fa0b0c",
+			"targetIndex" : 36,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"sdl2pckg.dir/sdl2atk/external/vorbis/lib/libvorbisenc.a"
+			],
+			"targetId" : "vorbisenc::@1e61c11abda5a6fa0b0c",
+			"targetIndex" : 37,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"sdl2pckg.dir/sdl2atk/external/vorbis/lib/libvorbisfile.a"
+			],
+			"targetId" : "vorbisfile::@1e61c11abda5a6fa0b0c",
+			"targetIndex" : 38,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/Vorbis",
+			"exportName" : "VorbisTargets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "vorbis::@1e61c11abda5a6fa0b0c",
+					"index" : 36
+				},
+				{
+					"id" : "vorbisenc::@1e61c11abda5a6fa0b0c",
+					"index" : 37
+				},
+				{
+					"id" : "vorbisfile::@1e61c11abda5a6fa0b0c",
+					"index" : 38
+				}
+			],
+			"paths" : 
+			[
+				"sdl2pckg.dir/sdl2atk/external/vorbis/lib/CMakeFiles/Export/lib/cmake/Vorbis/VorbisTargets.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/Vorbis",
+			"paths" : 
+			[
+				"/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/sdl2pckg.dir/sdl2atk/external/vorbis/lib/VorbisConfig.cmake",
+				"/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/sdl2pckg.dir/sdl2atk/external/vorbis/lib/VorbisConfigVersion.cmake"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "sdl2pckg.dir/sdl2atk/external/vorbis/lib",
+		"source" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/vorbis/lib"
+	}
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$/../../../app/jni">
+      <sourceFolder url="file://$MODULE_DIR$/../../../app/jni" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../source">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../source" type="native-Source-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../../../../cugl" dumb="true">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../cugl/buildfiles" type="native-Source-root" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../cugl/external" type="native-Source-root" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../cugl/include" type="native-header-root" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../cugl/sdlapp" type="native-Source-root" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../../cugl/source" type="native-Source-root" />
+    </content>
+  </component>
+</module>

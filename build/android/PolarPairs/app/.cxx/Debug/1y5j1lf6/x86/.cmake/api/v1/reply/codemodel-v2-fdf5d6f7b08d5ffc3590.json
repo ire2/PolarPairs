@@ -1,0 +1,1200 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						14
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						25
+					]
+				},
+				{
+					"build" : "cugl.dir",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						5
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-cugl.dir-Debug-7a5d210f8842cbeed874.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "/Users/ignacioestrada/game_design/cugl/buildfiles/android/jni/cugl",
+					"targetIndexes" : 
+					[
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				},
+				{
+					"build" : "cugl.dir/poly2tri.dir",
+					"jsonFile" : "directory-cugl.dir.poly2tri.dir-Debug-c9d0a31370ed14cdc797.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "/Users/ignacioestrada/game_design/cugl/buildfiles/cmake/external/poly2tri",
+					"targetIndexes" : 
+					[
+						27
+					]
+				},
+				{
+					"build" : "cugl.dir/box2d.dir",
+					"childIndexes" : 
+					[
+						4
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-cugl.dir.box2d.dir-Debug-6b553d495c1c9099d5e1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 3,
+					"source" : "/Users/ignacioestrada/game_design/cugl/buildfiles/cmake/external/box2d"
+				},
+				{
+					"build" : "cugl.dir/box2d.dir/src",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-cugl.dir.box2d.dir.src-Debug-a38cd0acd9d7121d1fdc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 3,
+					"source" : "/Users/ignacioestrada/game_design/cugl/buildfiles/cmake/external/box2d/src",
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"build" : "cugl.dir/libdatachannel.dir",
+					"childIndexes" : 
+					[
+						6,
+						7,
+						9,
+						12,
+						13
+					],
+					"jsonFile" : "directory-cugl.dir.libdatachannel.dir-Debug-a3c15d877d775a884430.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.7"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 4,
+					"source" : "/Users/ignacioestrada/game_design/cugl/buildfiles/cmake/external/libdatachannel",
+					"targetIndexes" : 
+					[
+						17
+					]
+				},
+				{
+					"build" : "cugl.dir/libdatachannel.dir/deps/plog",
+					"jsonFile" : "directory-cugl.dir.libdatachannel.dir.deps.plog-Debug-397a3424c34bd5d66054.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6"
+					},
+					"parentIndex" : 5,
+					"projectIndex" : 5,
+					"source" : "/Users/ignacioestrada/game_design/cugl/buildfiles/cmake/external/libdatachannel/deps/plog"
+				},
+				{
+					"build" : "cugl.dir/libdatachannel.dir/deps/usrsctp",
+					"childIndexes" : 
+					[
+						8
+					],
+					"jsonFile" : "directory-cugl.dir.libdatachannel.dir.deps.usrsctp-Debug-864f1baa6979913a85bc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6"
+					},
+					"parentIndex" : 5,
+					"projectIndex" : 6,
+					"source" : "/Users/ignacioestrada/game_design/cugl/buildfiles/cmake/external/libdatachannel/deps/usrsctp"
+				},
+				{
+					"build" : "cugl.dir/libdatachannel.dir/deps/usrsctp/usrsctplib",
+					"jsonFile" : "directory-cugl.dir.libdatachannel.dir.deps.usrsctp.usrsctplib-Debug-4df2a56d2094a8b630b5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6"
+					},
+					"parentIndex" : 7,
+					"projectIndex" : 6,
+					"source" : "/Users/ignacioestrada/game_design/cugl/buildfiles/cmake/external/libdatachannel/deps/usrsctp/usrsctplib",
+					"targetIndexes" : 
+					[
+						34
+					]
+				},
+				{
+					"build" : "cugl.dir/libdatachannel.dir/deps/openssl",
+					"childIndexes" : 
+					[
+						10,
+						11
+					],
+					"jsonFile" : "directory-cugl.dir.libdatachannel.dir.deps.openssl-Debug-e181a33930e9c4723afb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 5,
+					"projectIndex" : 7,
+					"source" : "/Users/ignacioestrada/game_design/cugl/buildfiles/cmake/external/libdatachannel/deps/openssl"
+				},
+				{
+					"build" : "cugl.dir/libdatachannel.dir/deps/openssl/crypto",
+					"jsonFile" : "directory-cugl.dir.libdatachannel.dir.deps.openssl.crypto-Debug-12f6d679f764c911fefb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 9,
+					"projectIndex" : 7,
+					"source" : "/Users/ignacioestrada/game_design/cugl/buildfiles/cmake/external/libdatachannel/deps/openssl/crypto",
+					"targetIndexes" : 
+					[
+						8
+					]
+				},
+				{
+					"build" : "cugl.dir/libdatachannel.dir/deps/openssl/ssl",
+					"jsonFile" : "directory-cugl.dir.libdatachannel.dir.deps.openssl.ssl-Debug-9e16b33b9e0af8a23dc1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6.0"
+					},
+					"parentIndex" : 9,
+					"projectIndex" : 7,
+					"source" : "/Users/ignacioestrada/game_design/cugl/buildfiles/cmake/external/libdatachannel/deps/openssl/ssl",
+					"targetIndexes" : 
+					[
+						32
+					]
+				},
+				{
+					"build" : "cugl.dir/libdatachannel.dir/deps/libsrtp",
+					"jsonFile" : "directory-cugl.dir.libdatachannel.dir.deps.libsrtp-Debug-3c0ed3cebeecbfcba745.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 5,
+					"projectIndex" : 8,
+					"source" : "/Users/ignacioestrada/game_design/cugl/buildfiles/cmake/external/libdatachannel/deps/libsrtp",
+					"targetIndexes" : 
+					[
+						31
+					]
+				},
+				{
+					"build" : "cugl.dir/libdatachannel.dir/deps/libjuice",
+					"jsonFile" : "directory-cugl.dir.libdatachannel.dir.deps.libjuice-Debug-456790efe322a55c1c0c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.7"
+					},
+					"parentIndex" : 5,
+					"projectIndex" : 9,
+					"source" : "/Users/ignacioestrada/game_design/cugl/buildfiles/cmake/external/libdatachannel/deps/libjuice",
+					"targetIndexes" : 
+					[
+						23
+					]
+				},
+				{
+					"build" : "sdl2pckg.dir",
+					"childIndexes" : 
+					[
+						15,
+						16,
+						17,
+						20,
+						33
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-sdl2pckg.dir-Debug-0f17bc372795b62f6aea.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 10,
+					"source" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake"
+				},
+				{
+					"build" : "sdl2pckg.dir/sdl2",
+					"jsonFile" : "directory-sdl2pckg.dir.sdl2-Debug-f63b804c64a964c2729e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.4"
+					},
+					"parentIndex" : 14,
+					"projectIndex" : 11,
+					"source" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2",
+					"targetIndexes" : 
+					[
+						1,
+						6,
+						30,
+						33
+					]
+				},
+				{
+					"build" : "sdl2pckg.dir/sdl2image",
+					"jsonFile" : "directory-sdl2pckg.dir.sdl2image-Debug-c3937956fed006d12049.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 14,
+					"projectIndex" : 12,
+					"source" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2image",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "sdl2pckg.dir/sdl2ttf",
+					"childIndexes" : 
+					[
+						18,
+						19
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-sdl2pckg.dir.sdl2ttf-Debug-6c29084e8419bc22ec74.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 14,
+					"projectIndex" : 13,
+					"source" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2ttf",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "sdl2pckg.dir/sdl2ttf/external/harfbuzz",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-sdl2pckg.dir.sdl2ttf.external.harfbuzz-Debug-aab40319b35d741ce855.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 17,
+					"projectIndex" : 14,
+					"source" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2ttf/external/harfbuzz",
+					"targetIndexes" : 
+					[
+						21,
+						22
+					]
+				},
+				{
+					"build" : "sdl2pckg.dir/sdl2ttf/external/freetype",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-sdl2pckg.dir.sdl2ttf.external.freetype-Debug-e9accc96c4fe59777145.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6"
+					},
+					"parentIndex" : 17,
+					"projectIndex" : 15,
+					"source" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2ttf/external/freetype",
+					"targetIndexes" : 
+					[
+						18
+					]
+				},
+				{
+					"build" : "sdl2pckg.dir/sdl2atk",
+					"childIndexes" : 
+					[
+						21,
+						22,
+						30,
+						32
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-sdl2pckg.dir.sdl2atk-Debug-a3e921d8ea7bb0632e92.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 14,
+					"projectIndex" : 16,
+					"source" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "sdl2pckg.dir/sdl2atk/external/ogg",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-sdl2pckg.dir.sdl2atk.external.ogg-Debug-3f692ced9d252aab6e7a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6"
+					},
+					"parentIndex" : 20,
+					"projectIndex" : 17,
+					"source" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/ogg",
+					"targetIndexes" : 
+					[
+						26
+					]
+				},
+				{
+					"build" : "sdl2pckg.dir/sdl2atk/external/flac",
+					"childIndexes" : 
+					[
+						23
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-sdl2pckg.dir.sdl2atk.external.flac-Debug-7e0eb061576a2d0fffe8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6"
+					},
+					"parentIndex" : 20,
+					"projectIndex" : 18,
+					"source" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/flac"
+				},
+				{
+					"build" : "sdl2pckg.dir/sdl2atk/external/flac/src",
+					"childIndexes" : 
+					[
+						24,
+						25,
+						26,
+						27,
+						28,
+						29
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-sdl2pckg.dir.sdl2atk.external.flac.src-Debug-1c7e8078e307c6567fe5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"parentIndex" : 22,
+					"projectIndex" : 18,
+					"source" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/flac/src"
+				},
+				{
+					"build" : "sdl2pckg.dir/sdl2atk/external/flac/src/libFLAC",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-sdl2pckg.dir.sdl2atk.external.flac.src.libFLAC-Debug-e72e59174fcc1a2053a6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"parentIndex" : 23,
+					"projectIndex" : 18,
+					"source" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/flac/src/libFLAC",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "sdl2pckg.dir/sdl2atk/external/flac/src/share/replaygain_analysis",
+					"jsonFile" : "directory-sdl2pckg.dir.sdl2atk.external.flac.src.share.replaygain_analysis-Debug-9912d7f00d5afee44488.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"parentIndex" : 23,
+					"projectIndex" : 18,
+					"source" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/flac/src/share/replaygain_analysis",
+					"targetIndexes" : 
+					[
+						28
+					]
+				},
+				{
+					"build" : "sdl2pckg.dir/sdl2atk/external/flac/src/share/replaygain_synthesis",
+					"jsonFile" : "directory-sdl2pckg.dir.sdl2atk.external.flac.src.share.replaygain_synthesis-Debug-a50bf98b4b1d8cade221.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"parentIndex" : 23,
+					"projectIndex" : 18,
+					"source" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/flac/src/share/replaygain_synthesis",
+					"targetIndexes" : 
+					[
+						29
+					]
+				},
+				{
+					"build" : "sdl2pckg.dir/sdl2atk/external/flac/src/share/getopt",
+					"jsonFile" : "directory-sdl2pckg.dir.sdl2atk.external.flac.src.share.getopt-Debug-5692a7dfa6fb02aa6508.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"parentIndex" : 23,
+					"projectIndex" : 18,
+					"source" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/flac/src/share/getopt",
+					"targetIndexes" : 
+					[
+						19
+					]
+				},
+				{
+					"build" : "sdl2pckg.dir/sdl2atk/external/flac/src/share/utf8",
+					"jsonFile" : "directory-sdl2pckg.dir.sdl2atk.external.flac.src.share.utf8-Debug-442334026cdcbe1c8bab.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 23,
+					"projectIndex" : 18,
+					"source" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/flac/src/share/utf8",
+					"targetIndexes" : 
+					[
+						35
+					]
+				},
+				{
+					"build" : "sdl2pckg.dir/sdl2atk/external/flac/src/share/grabbag",
+					"jsonFile" : "directory-sdl2pckg.dir.sdl2atk.external.flac.src.share.grabbag-Debug-b6a4832b991c5b2699c3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.11"
+					},
+					"parentIndex" : 23,
+					"projectIndex" : 18,
+					"source" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/flac/src/share/grabbag",
+					"targetIndexes" : 
+					[
+						20
+					]
+				},
+				{
+					"build" : "sdl2pckg.dir/sdl2atk/external/vorbis",
+					"childIndexes" : 
+					[
+						31
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-sdl2pckg.dir.sdl2atk.external.vorbis-Debug-c60a799bba7ab4288254.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6"
+					},
+					"parentIndex" : 20,
+					"projectIndex" : 19,
+					"source" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/vorbis"
+				},
+				{
+					"build" : "sdl2pckg.dir/sdl2atk/external/vorbis/lib",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-sdl2pckg.dir.sdl2atk.external.vorbis.lib-Debug-bf26405279b5949af67d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6"
+					},
+					"parentIndex" : 30,
+					"projectIndex" : 19,
+					"source" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/vorbis/lib",
+					"targetIndexes" : 
+					[
+						36,
+						37,
+						38
+					]
+				},
+				{
+					"build" : "sdl2pckg.dir/sdl2atk/external/kissfft",
+					"jsonFile" : "directory-sdl2pckg.dir.sdl2atk.external.kissfft-Debug-9a9c8e15289f2ce6a7af.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.6"
+					},
+					"parentIndex" : 20,
+					"projectIndex" : 20,
+					"source" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/kissfft",
+					"targetIndexes" : 
+					[
+						24
+					]
+				},
+				{
+					"build" : "sdl2pckg.dir/sdl2app",
+					"jsonFile" : "directory-sdl2pckg.dir.sdl2app-Debug-6fee56e96f32fded5365.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 14,
+					"projectIndex" : 21,
+					"source" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2app",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						10
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Polar_Pairs",
+					"targetIndexes" : 
+					[
+						25
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4
+					],
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "cugl",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "poly2tri",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						27
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3,
+						4
+					],
+					"name" : "box2d",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						7
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						5,
+						6,
+						7,
+						8,
+						9
+					],
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "libdatachannel",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						17
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "plog",
+					"parentIndex" : 4
+				},
+				{
+					"directoryIndexes" : 
+					[
+						7,
+						8
+					],
+					"name" : "usrsctplib",
+					"parentIndex" : 4,
+					"targetIndexes" : 
+					[
+						34
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						9,
+						10,
+						11
+					],
+					"name" : "openssl",
+					"parentIndex" : 4,
+					"targetIndexes" : 
+					[
+						8,
+						32
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						12
+					],
+					"name" : "libsrtp2",
+					"parentIndex" : 4,
+					"targetIndexes" : 
+					[
+						31
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						13
+					],
+					"name" : "libjuice",
+					"parentIndex" : 4,
+					"targetIndexes" : 
+					[
+						23
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						11,
+						12,
+						13,
+						16,
+						21
+					],
+					"directoryIndexes" : 
+					[
+						14
+					],
+					"name" : "SDL2_pckg",
+					"parentIndex" : 0
+				},
+				{
+					"directoryIndexes" : 
+					[
+						15
+					],
+					"name" : "SDL2",
+					"parentIndex" : 10,
+					"targetIndexes" : 
+					[
+						1,
+						6,
+						30,
+						33
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						16
+					],
+					"name" : "SDL2_image",
+					"parentIndex" : 10,
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						14,
+						15
+					],
+					"directoryIndexes" : 
+					[
+						17
+					],
+					"name" : "SDL2_ttf",
+					"parentIndex" : 10,
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						18
+					],
+					"name" : "harfbuzz",
+					"parentIndex" : 13,
+					"targetIndexes" : 
+					[
+						21,
+						22
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						19
+					],
+					"name" : "freetype",
+					"parentIndex" : 13,
+					"targetIndexes" : 
+					[
+						18
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						17,
+						18,
+						19,
+						20
+					],
+					"directoryIndexes" : 
+					[
+						20
+					],
+					"name" : "SDL2_atk",
+					"parentIndex" : 10,
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						21
+					],
+					"name" : "ogg",
+					"parentIndex" : 16,
+					"targetIndexes" : 
+					[
+						26
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29
+					],
+					"name" : "FLAC",
+					"parentIndex" : 16,
+					"targetIndexes" : 
+					[
+						0,
+						19,
+						20,
+						28,
+						29,
+						35
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						30,
+						31
+					],
+					"name" : "vorbis",
+					"parentIndex" : 16,
+					"targetIndexes" : 
+					[
+						36,
+						37,
+						38
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						32
+					],
+					"name" : "kissfft",
+					"parentIndex" : 16,
+					"targetIndexes" : 
+					[
+						24
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						33
+					],
+					"name" : "SDL2_app",
+					"parentIndex" : 10,
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 24,
+					"id" : "FLAC::@2d4264331f8f6549d11d",
+					"jsonFile" : "target-FLAC-Debug-f9e170499bab66d7f402.json",
+					"name" : "FLAC",
+					"projectIndex" : 18
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "SDL2::@cc1b873799dd6c24cc1a",
+					"jsonFile" : "target-SDL2-Debug-8721986c11824a7885bc.json",
+					"name" : "SDL2",
+					"projectIndex" : 11
+				},
+				{
+					"directoryIndex" : 33,
+					"id" : "SDL2_app::@dc1227265743810ab2eb",
+					"jsonFile" : "target-SDL2_app-Debug-dd49b42c121ddda26158.json",
+					"name" : "SDL2_app",
+					"projectIndex" : 21
+				},
+				{
+					"directoryIndex" : 20,
+					"id" : "SDL2_atk::@51429a36e05cf9af2efa",
+					"jsonFile" : "target-SDL2_atk-Debug-8a0289f4c9f7a29c96dd.json",
+					"name" : "SDL2_atk",
+					"projectIndex" : 16
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "SDL2_image::@bf259a6078524f396dee",
+					"jsonFile" : "target-SDL2_image-Debug-fd5092c000e33e72a465.json",
+					"name" : "SDL2_image",
+					"projectIndex" : 12
+				},
+				{
+					"directoryIndex" : 17,
+					"id" : "SDL2_ttf::@6e86b8aca881fb9c306c",
+					"jsonFile" : "target-SDL2_ttf-Debug-02b5213f940e8dd3fa81.json",
+					"name" : "SDL2_ttf",
+					"projectIndex" : 13
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "SDL2main::@cc1b873799dd6c24cc1a",
+					"jsonFile" : "target-SDL2main-Debug-2b2b043c2657154bbfc4.json",
+					"name" : "SDL2main",
+					"projectIndex" : 11
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "box2d::@984cdc36d74f1b4836e5",
+					"jsonFile" : "target-box2d-Debug-84cace3a1c28d5258c35.json",
+					"name" : "box2d",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "crypto::@8bec0725f26d26b0a90f",
+					"jsonFile" : "target-crypto-Debug-14045be19da99e267a8c.json",
+					"name" : "crypto",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "cugl-audio::@d4cbbc5a9c7fb51d83b7",
+					"jsonFile" : "target-cugl-audio-Debug-805aece0f966e965285b.json",
+					"name" : "cugl-audio",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "cugl-core::@d4cbbc5a9c7fb51d83b7",
+					"jsonFile" : "target-cugl-core-Debug-789e7ca10f4e94be1349.json",
+					"name" : "cugl-core",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "cugl-distrib-physics2::@d4cbbc5a9c7fb51d83b7",
+					"jsonFile" : "target-cugl-distrib-physics2-Debug-7e8db1160170ac030500.json",
+					"name" : "cugl-distrib-physics2",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "cugl-graphics::@d4cbbc5a9c7fb51d83b7",
+					"jsonFile" : "target-cugl-graphics-Debug-487943785eebe3677b08.json",
+					"name" : "cugl-graphics",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "cugl-netcode::@d4cbbc5a9c7fb51d83b7",
+					"jsonFile" : "target-cugl-netcode-Debug-2a8ae90571f31ec02421.json",
+					"name" : "cugl-netcode",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "cugl-physics2::@d4cbbc5a9c7fb51d83b7",
+					"jsonFile" : "target-cugl-physics2-Debug-ff8c6ece8ca74a2fdcc4.json",
+					"name" : "cugl-physics2",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "cugl-scene2::@d4cbbc5a9c7fb51d83b7",
+					"jsonFile" : "target-cugl-scene2-Debug-3cf8e07c5f3255b7cf6d.json",
+					"name" : "cugl-scene2",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "cugl-scene3::@d4cbbc5a9c7fb51d83b7",
+					"jsonFile" : "target-cugl-scene3-Debug-f6bd26b15a2924911bd6.json",
+					"name" : "cugl-scene3",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "datachannel::@655936202e2b580ddf9b",
+					"jsonFile" : "target-datachannel-Debug-deef053692d52c2ac8a8.json",
+					"name" : "datachannel",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 19,
+					"id" : "freetype::@4c7b79e15bcfb5bdfed5",
+					"jsonFile" : "target-freetype-Debug-f62123072df7aac9a3c3.json",
+					"name" : "freetype",
+					"projectIndex" : 15
+				},
+				{
+					"directoryIndex" : 27,
+					"id" : "getopt::@6ed82f74a5f2c691afcb",
+					"jsonFile" : "target-getopt-Debug-92b099096329e5ecbf7d.json",
+					"name" : "getopt",
+					"projectIndex" : 18
+				},
+				{
+					"directoryIndex" : 29,
+					"id" : "grabbag::@15cc713d8c828d8f6cdb",
+					"jsonFile" : "target-grabbag-Debug-af6d979aca35cd06d4ee.json",
+					"name" : "grabbag",
+					"projectIndex" : 18
+				},
+				{
+					"directoryIndex" : 18,
+					"id" : "harfbuzz::@f51d28eae72e9206fc4e",
+					"jsonFile" : "target-harfbuzz-Debug-b8502ec1d5e22f4ffc38.json",
+					"name" : "harfbuzz",
+					"projectIndex" : 14
+				},
+				{
+					"directoryIndex" : 18,
+					"id" : "harfbuzz-subset::@f51d28eae72e9206fc4e",
+					"jsonFile" : "target-harfbuzz-subset-Debug-b02802fa9d2b6c023d1b.json",
+					"name" : "harfbuzz-subset",
+					"projectIndex" : 14
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "juice::@86f68ca494d33377e9ec",
+					"jsonFile" : "target-juice-Debug-150dbd384b41db4bb7e7.json",
+					"name" : "juice",
+					"projectIndex" : 9
+				},
+				{
+					"directoryIndex" : 32,
+					"id" : "kissfft::@9f3673508c2abc40f456",
+					"jsonFile" : "target-kissfft-Debug-31f2b3aad32b4593d7a7.json",
+					"name" : "kissfft",
+					"projectIndex" : 20
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-ee0febc8e094bd58f63f.json",
+					"name" : "main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 21,
+					"id" : "ogg::@8d925c2cbb0d4e780e78",
+					"jsonFile" : "target-ogg-Debug-30f53e0e8acae1263c39.json",
+					"name" : "ogg",
+					"projectIndex" : 17
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "poly2tri::@0f871668d82e31cd7fb5",
+					"jsonFile" : "target-poly2tri-Debug-15696b4235db076cb327.json",
+					"name" : "poly2tri",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 25,
+					"id" : "replaygain_analysis::@31a39bc6ed0f19f4e659",
+					"jsonFile" : "target-replaygain_analysis-Debug-c1ab5f749f874c7abf05.json",
+					"name" : "replaygain_analysis",
+					"projectIndex" : 18
+				},
+				{
+					"directoryIndex" : 26,
+					"id" : "replaygain_synthesis::@2a3e1dbf8ea755d1a2ac",
+					"jsonFile" : "target-replaygain_synthesis-Debug-bfab357541fd11db2835.json",
+					"name" : "replaygain_synthesis",
+					"projectIndex" : 18
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "sdl_headers_copy::@cc1b873799dd6c24cc1a",
+					"jsonFile" : "target-sdl_headers_copy-Debug-06e0450b5a584ce2bb48.json",
+					"name" : "sdl_headers_copy",
+					"projectIndex" : 11
+				},
+				{
+					"directoryIndex" : 12,
+					"id" : "srtp2::@5e5c0248c990b7300543",
+					"jsonFile" : "target-srtp2-Debug-badad268b6479b23121d.json",
+					"name" : "srtp2",
+					"projectIndex" : 8
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "ssl::@e57b51676e37372d2007",
+					"jsonFile" : "target-ssl-Debug-f2d896635aa51e92c17d.json",
+					"name" : "ssl",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "uninstall::@cc1b873799dd6c24cc1a",
+					"jsonFile" : "target-uninstall-Debug-3b4992160398e8e8451a.json",
+					"name" : "uninstall",
+					"projectIndex" : 11
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "usrsctp::@222b707369e545553aca",
+					"jsonFile" : "target-usrsctp-Debug-3c7de57d9ef2e0ea54c6.json",
+					"name" : "usrsctp",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 28,
+					"id" : "utf8::@79686d12972d4fc29eb1",
+					"jsonFile" : "target-utf8-Debug-85cca39f09dfd1b39452.json",
+					"name" : "utf8",
+					"projectIndex" : 18
+				},
+				{
+					"directoryIndex" : 31,
+					"id" : "vorbis::@1e61c11abda5a6fa0b0c",
+					"jsonFile" : "target-vorbis-Debug-ce5e2b47cf5a3820ae13.json",
+					"name" : "vorbis",
+					"projectIndex" : 19
+				},
+				{
+					"directoryIndex" : 31,
+					"id" : "vorbisenc::@1e61c11abda5a6fa0b0c",
+					"jsonFile" : "target-vorbisenc-Debug-a15026e9661340a2de4a.json",
+					"name" : "vorbisenc",
+					"projectIndex" : 19
+				},
+				{
+					"directoryIndex" : 31,
+					"id" : "vorbisfile::@1e61c11abda5a6fa0b0c",
+					"jsonFile" : "target-vorbisfile-Debug-50ec485623c3ebb33e53.json",
+					"name" : "vorbisfile",
+					"projectIndex" : 19
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86",
+		"source" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/jni"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

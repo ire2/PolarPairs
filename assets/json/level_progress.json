@@ -1,0 +1,54 @@
+{
+    "levels": [
+        {
+            "levelNum": 1,
+            "highestStars": 0,
+            "unlocked": true
+        },
+        {
+            "levelNum": 2,
+            "highestStars": 0,
+            "unlocked": false
+        },
+        {
+            "levelNum": 3,
+            "highestStars": 0,
+            "unlocked": false
+        },
+        {
+            "levelNum": 4,
+            "highestStars": 0,
+            "unlocked": false
+        },
+        {
+            "levelNum": 5,
+            "highestStars": 0,
+            "unlocked": false
+        },
+        {
+            "levelNum": 6,
+            "highestStars": 0,
+            "unlocked": false
+        },
+        {
+            "levelNum": 7,
+            "highestStars": 0,
+            "unlocked": false
+        },
+        {
+            "levelNum": 8,
+            "highestStars": 0,
+            "unlocked": false
+        },
+        {
+            "levelNum": 9,
+            "highestStars": 0,
+            "unlocked": false
+        },
+        {
+            "levelNum": 10,
+            "highestStars": 0,
+            "unlocked": false
+        }
+    ]
+} 

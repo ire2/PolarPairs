@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "cugl.dir/libdatachannel.dir/deps/plog",
+		"source" : "/Users/ignacioestrada/game_design/cugl/buildfiles/cmake/external/libdatachannel/deps/plog"
+	}
+}

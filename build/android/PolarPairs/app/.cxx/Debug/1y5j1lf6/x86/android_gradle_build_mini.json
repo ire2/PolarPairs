@@ -1,0 +1,300 @@
+{
+  "buildFiles": [
+    "/Users/ignacioestrada/game_design/cugl/buildfiles/android/jni/cugl/CMakeLists.txt",
+    "/Users/ignacioestrada/game_design/cugl/buildfiles/cmake/external/box2d/CMakeLists.txt",
+    "/Users/ignacioestrada/game_design/cugl/buildfiles/cmake/external/box2d/src/CMakeLists.txt",
+    "/Users/ignacioestrada/game_design/cugl/buildfiles/cmake/external/libdatachannel/CMakeLists.txt",
+    "/Users/ignacioestrada/game_design/cugl/buildfiles/cmake/external/libdatachannel/deps/libjuice/CMakeLists.txt",
+    "/Users/ignacioestrada/game_design/cugl/buildfiles/cmake/external/libdatachannel/deps/libsrtp/CMakeLists.txt",
+    "/Users/ignacioestrada/game_design/cugl/buildfiles/cmake/external/libdatachannel/deps/openssl/CMakeLists.txt",
+    "/Users/ignacioestrada/game_design/cugl/buildfiles/cmake/external/libdatachannel/deps/openssl/crypto/CMakeLists.txt",
+    "/Users/ignacioestrada/game_design/cugl/buildfiles/cmake/external/libdatachannel/deps/openssl/ssl/CMakeLists.txt",
+    "/Users/ignacioestrada/game_design/cugl/buildfiles/cmake/external/libdatachannel/deps/plog/CMakeLists.txt",
+    "/Users/ignacioestrada/game_design/cugl/buildfiles/cmake/external/libdatachannel/deps/usrsctp/CMakeLists.txt",
+    "/Users/ignacioestrada/game_design/cugl/buildfiles/cmake/external/libdatachannel/deps/usrsctp/usrsctplib/CMakeLists.txt",
+    "/Users/ignacioestrada/game_design/cugl/buildfiles/cmake/external/poly2tri/CMakeLists.txt",
+    "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/CMakeLists.txt",
+    "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2/CMakeLists.txt",
+    "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2app/CMakeLists.txt",
+    "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/CMakeLists.txt",
+    "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/flac/CMakeLists.txt",
+    "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/flac/src/CMakeLists.txt",
+    "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/flac/src/libFLAC/CMakeLists.txt",
+    "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/flac/src/share/getopt/CMakeLists.txt",
+    "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/flac/src/share/grabbag/CMakeLists.txt",
+    "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/flac/src/share/replaygain_analysis/CMakeLists.txt",
+    "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/flac/src/share/replaygain_synthesis/CMakeLists.txt",
+    "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/flac/src/share/utf8/CMakeLists.txt",
+    "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/kissfft/CMakeLists.txt",
+    "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/ogg/CMakeLists.txt",
+    "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/vorbis/CMakeLists.txt",
+    "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/vorbis/lib/CMakeLists.txt",
+    "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2image/CMakeLists.txt",
+    "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2ttf/CMakeLists.txt",
+    "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2ttf/external/freetype/CMakeLists.txt",
+    "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2ttf/external/harfbuzz/CMakeLists.txt",
+    "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/jni/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/ignacioestrada/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "SDL2_atk::@51429a36e05cf9af2efa": {
+      "artifactName": "SDL2_atk",
+      "abi": "x86",
+      "output": "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/build/intermediates/cxx/Debug/1y5j1lf6/obj/x86/libSDL2_atk.so",
+      "runtimeFiles": [
+        "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/build/intermediates/cxx/Debug/1y5j1lf6/obj/x86/libSDL2.so"
+      ]
+    },
+    "cugl-physics2::@d4cbbc5a9c7fb51d83b7": {
+      "artifactName": "cugl-physics2",
+      "abi": "x86",
+      "output": "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/cugl.dir/libcugl-physics2.a",
+      "runtimeFiles": []
+    },
+    "main::@6890427a1f51a3e7e1df": {
+      "artifactName": "main",
+      "abi": "x86",
+      "output": "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/build/intermediates/cxx/Debug/1y5j1lf6/obj/x86/libmain.so",
+      "runtimeFiles": [
+        "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/build/intermediates/cxx/Debug/1y5j1lf6/obj/x86/libSDL2_image.so",
+        "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/build/intermediates/cxx/Debug/1y5j1lf6/obj/x86/libSDL2_ttf.so",
+        "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/build/intermediates/cxx/Debug/1y5j1lf6/obj/x86/libSDL2_atk.so",
+        "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/build/intermediates/cxx/Debug/1y5j1lf6/obj/x86/libSDL2_app.so",
+        "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/build/intermediates/cxx/Debug/1y5j1lf6/obj/x86/libSDL2.so"
+      ]
+    },
+    "cugl-graphics::@d4cbbc5a9c7fb51d83b7": {
+      "artifactName": "cugl-graphics",
+      "abi": "x86",
+      "output": "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/cugl.dir/libcugl-graphics.a",
+      "runtimeFiles": []
+    },
+    "replaygain_analysis::@31a39bc6ed0f19f4e659": {
+      "artifactName": "replaygain_analysis",
+      "abi": "x86",
+      "output": "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/sdl2pckg.dir/sdl2atk/external/flac/src/share/replaygain_analysis/libreplaygain_analysis.a",
+      "runtimeFiles": []
+    },
+    "SDL2_app::@dc1227265743810ab2eb": {
+      "artifactName": "SDL2_app",
+      "abi": "x86",
+      "output": "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/build/intermediates/cxx/Debug/1y5j1lf6/obj/x86/libSDL2_app.so",
+      "runtimeFiles": [
+        "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/build/intermediates/cxx/Debug/1y5j1lf6/obj/x86/libSDL2.so"
+      ]
+    },
+    "SDL2_ttf::@6e86b8aca881fb9c306c": {
+      "artifactName": "SDL2_ttf",
+      "abi": "x86",
+      "output": "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/build/intermediates/cxx/Debug/1y5j1lf6/obj/x86/libSDL2_ttf.so",
+      "runtimeFiles": [
+        "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/build/intermediates/cxx/Debug/1y5j1lf6/obj/x86/libSDL2.so"
+      ]
+    },
+    "cugl-core::@d4cbbc5a9c7fb51d83b7": {
+      "artifactName": "cugl-core",
+      "abi": "x86",
+      "output": "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/cugl.dir/libcugl-core.a",
+      "runtimeFiles": []
+    },
+    "vorbisenc::@1e61c11abda5a6fa0b0c": {
+      "artifactName": "vorbisenc",
+      "abi": "x86",
+      "output": "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/sdl2pckg.dir/sdl2atk/external/vorbis/lib/libvorbisenc.a",
+      "runtimeFiles": []
+    },
+    "harfbuzz::@f51d28eae72e9206fc4e": {
+      "artifactName": "harfbuzz",
+      "abi": "x86",
+      "output": "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/sdl2pckg.dir/sdl2ttf/external/harfbuzz/libharfbuzz.a",
+      "runtimeFiles": []
+    },
+    "ogg::@8d925c2cbb0d4e780e78": {
+      "artifactName": "ogg",
+      "abi": "x86",
+      "output": "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/sdl2pckg.dir/sdl2atk/external/ogg/libogg.a",
+      "runtimeFiles": []
+    },
+    "cugl-scene2::@d4cbbc5a9c7fb51d83b7": {
+      "artifactName": "cugl-scene2",
+      "abi": "x86",
+      "output": "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/cugl.dir/libcugl-scene2.a",
+      "runtimeFiles": []
+    },
+    "getopt::@6ed82f74a5f2c691afcb": {
+      "artifactName": "getopt",
+      "abi": "x86",
+      "output": "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/sdl2pckg.dir/sdl2atk/external/flac/src/share/getopt/libgetopt.a",
+      "runtimeFiles": []
+    },
+    "vorbisfile::@1e61c11abda5a6fa0b0c": {
+      "artifactName": "vorbisfile",
+      "abi": "x86",
+      "output": "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/sdl2pckg.dir/sdl2atk/external/vorbis/lib/libvorbisfile.a",
+      "runtimeFiles": []
+    },
+    "SDL2_image::@bf259a6078524f396dee": {
+      "artifactName": "SDL2_image",
+      "abi": "x86",
+      "output": "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/build/intermediates/cxx/Debug/1y5j1lf6/obj/x86/libSDL2_image.so",
+      "runtimeFiles": [
+        "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/build/intermediates/cxx/Debug/1y5j1lf6/obj/x86/libSDL2.so"
+      ]
+    },
+    "ssl::@e57b51676e37372d2007": {
+      "artifactName": "ssl",
+      "abi": "x86",
+      "output": "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/cugl.dir/libdatachannel.dir/deps/openssl/ssl/libssl_1_1.a",
+      "runtimeFiles": []
+    },
+    "vorbis::@1e61c11abda5a6fa0b0c": {
+      "artifactName": "vorbis",
+      "abi": "x86",
+      "output": "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/sdl2pckg.dir/sdl2atk/external/vorbis/lib/libvorbis.a",
+      "runtimeFiles": []
+    },
+    "datachannel::@655936202e2b580ddf9b": {
+      "artifactName": "datachannel",
+      "abi": "x86",
+      "output": "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/cugl.dir/libdatachannel.dir/libdatachannel.a",
+      "runtimeFiles": []
+    },
+    "cugl-netcode::@d4cbbc5a9c7fb51d83b7": {
+      "artifactName": "cugl-netcode",
+      "abi": "x86",
+      "output": "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/cugl.dir/libcugl-netcode.a",
+      "runtimeFiles": []
+    },
+    "srtp2::@5e5c0248c990b7300543": {
+      "artifactName": "srtp2",
+      "abi": "x86",
+      "output": "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/cugl.dir/libdatachannel.dir/deps/libsrtp/libsrtp2.a",
+      "runtimeFiles": []
+    },
+    "crypto::@8bec0725f26d26b0a90f": {
+      "artifactName": "crypto",
+      "abi": "x86",
+      "output": "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/cugl.dir/libdatachannel.dir/deps/openssl/crypto/libcrypto_1_1.a",
+      "runtimeFiles": []
+    },
+    "poly2tri::@0f871668d82e31cd7fb5": {
+      "artifactName": "poly2tri",
+      "abi": "x86",
+      "output": "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/cugl.dir/poly2tri.dir/libpoly2tri.a",
+      "runtimeFiles": []
+    },
+    "sdl_headers_copy::@cc1b873799dd6c24cc1a": {
+      "artifactName": "sdl_headers_copy",
+      "abi": "x86",
+      "runtimeFiles": []
+    },
+    "juice::@86f68ca494d33377e9ec": {
+      "artifactName": "juice",
+      "abi": "x86",
+      "output": "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/cugl.dir/libdatachannel.dir/deps/libjuice/libjuice.a",
+      "runtimeFiles": []
+    },
+    "FLAC::@2d4264331f8f6549d11d": {
+      "artifactName": "FLAC",
+      "abi": "x86",
+      "output": "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/sdl2pckg.dir/sdl2atk/external/flac/src/libFLAC/libFLAC.a",
+      "runtimeFiles": []
+    },
+    "grabbag::@15cc713d8c828d8f6cdb": {
+      "artifactName": "grabbag",
+      "abi": "x86",
+      "output": "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/sdl2pckg.dir/sdl2atk/external/flac/src/share/grabbag/libgrabbag.a",
+      "runtimeFiles": []
+    },
+    "uninstall::@cc1b873799dd6c24cc1a": {
+      "artifactName": "uninstall",
+      "abi": "x86",
+      "runtimeFiles": []
+    },
+    "cugl-distrib-physics2::@d4cbbc5a9c7fb51d83b7": {
+      "artifactName": "cugl-distrib-physics2",
+      "abi": "x86",
+      "output": "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/cugl.dir/libcugl-distrib-physics2.a",
+      "runtimeFiles": []
+    },
+    "cugl-scene3::@d4cbbc5a9c7fb51d83b7": {
+      "artifactName": "cugl-scene3",
+      "abi": "x86",
+      "output": "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/cugl.dir/libcugl-scene3.a",
+      "runtimeFiles": []
+    },
+    "replaygain_synthesis::@2a3e1dbf8ea755d1a2ac": {
+      "artifactName": "replaygain_synthesis",
+      "abi": "x86",
+      "output": "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/sdl2pckg.dir/sdl2atk/external/flac/src/share/replaygain_synthesis/libreplaygain_synthesis.a",
+      "runtimeFiles": []
+    },
+    "SDL2main::@cc1b873799dd6c24cc1a": {
+      "artifactName": "SDL2main",
+      "abi": "x86",
+      "output": "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/sdl2pckg.dir/sdl2/libSDL2main.a",
+      "runtimeFiles": []
+    },
+    "SDL2::@cc1b873799dd6c24cc1a": {
+      "artifactName": "SDL2",
+      "abi": "x86",
+      "output": "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/build/intermediates/cxx/Debug/1y5j1lf6/obj/x86/libSDL2.so",
+      "runtimeFiles": []
+    },
+    "usrsctp::@222b707369e545553aca": {
+      "artifactName": "usrsctp",
+      "abi": "x86",
+      "output": "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/cugl.dir/libdatachannel.dir/deps/usrsctp/usrsctplib/libusrsctp.a",
+      "runtimeFiles": []
+    },
+    "freetype::@4c7b79e15bcfb5bdfed5": {
+      "artifactName": "freetype",
+      "abi": "x86",
+      "output": "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/sdl2pckg.dir/sdl2ttf/external/freetype/libfreetyped.a",
+      "runtimeFiles": []
+    },
+    "harfbuzz-subset::@f51d28eae72e9206fc4e": {
+      "artifactName": "harfbuzz-subset",
+      "abi": "x86",
+      "output": "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/sdl2pckg.dir/sdl2ttf/external/harfbuzz/libharfbuzz-subset.a",
+      "runtimeFiles": []
+    },
+    "kissfft::@9f3673508c2abc40f456": {
+      "artifactName": "kissfft",
+      "abi": "x86",
+      "output": "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/sdl2pckg.dir/sdl2atk/external/kissfft/libkissfft-float.a",
+      "runtimeFiles": []
+    },
+    "utf8::@79686d12972d4fc29eb1": {
+      "artifactName": "utf8",
+      "abi": "x86",
+      "output": "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/sdl2pckg.dir/sdl2atk/external/flac/src/share/utf8/libutf8.a",
+      "runtimeFiles": []
+    },
+    "cugl-audio::@d4cbbc5a9c7fb51d83b7": {
+      "artifactName": "cugl-audio",
+      "abi": "x86",
+      "output": "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/cugl.dir/libcugl-audio.a",
+      "runtimeFiles": []
+    },
+    "box2d::@984cdc36d74f1b4836e5": {
+      "artifactName": "box2d",
+      "abi": "x86",
+      "output": "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/cugl.dir/box2d.dir/bin/libbox2d.a",
+      "runtimeFiles": []
+    }
+  }
+}

@@ -1,0 +1,15 @@
+Level 6
+7 11
+XXXXXXX
+XXXXXXX
+X...^$X
+X..*&..
+X...!X!
+X&.!...
+.......
+.X.....
+SB....X
+XXXXXXX
+XXXXXXX
+9
+9

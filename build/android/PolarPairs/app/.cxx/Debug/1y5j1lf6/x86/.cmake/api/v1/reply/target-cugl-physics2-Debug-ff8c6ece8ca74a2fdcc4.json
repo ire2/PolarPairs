@@ -1,0 +1,304 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "cugl.dir/libcugl-physics2.a"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"target_link_libraries",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"/Users/ignacioestrada/game_design/cugl/buildfiles/android/jni/cugl/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 145,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 146,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 147,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC"
+				},
+				{
+					"fragment" : "-std=gnu++20"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 3,
+					"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/cugl.dir"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/jni/../../../../../../cugl/sdlapp/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/jni/../../../../../../cugl/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/jni/../../../../../../cugl/external/box2d/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/jni/../../../../../../cugl/external/poly2tri/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/jni/../../../../../../cugl/external/libdatachannel/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/Users/ignacioestrada/game_design/cugl/buildfiles/android/jni/cugl/../../../../include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/Users/ignacioestrada/game_design/cugl/buildfiles/android/jni/cugl/../../../../sdlapp/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/Users/ignacioestrada/game_design/cugl/buildfiles/android/jni/cugl/../../../../external/poly2tri"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/Users/ignacioestrada/game_design/cugl/buildfiles/android/jni/cugl/../../../../external/box2d/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/Users/ignacioestrada/game_design/cugl/buildfiles/android/jni/cugl/../../../../external/libdatachannel/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/Users/ignacioestrada/Library/Android/sdk/ndk/25.1.8937393/sources/android/cpufeatures"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/Users/ignacioestrada/game_design/cugl/buildfiles/cmake/external/box2d/src/../../../../../external/box2d/include"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "20"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17
+			],
+			"sysroot" : 
+			{
+				"path" : "/Users/ignacioestrada/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot"
+			}
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "box2d::@984cdc36d74f1b4836e5"
+		}
+	],
+	"id" : "cugl-physics2::@d4cbbc5a9c7fb51d83b7",
+	"name" : "cugl-physics2",
+	"nameOnDisk" : "libcugl-physics2.a",
+	"paths" : 
+	{
+		"build" : "cugl.dir",
+		"source" : "/Users/ignacioestrada/game_design/cugl/buildfiles/android/jni/cugl"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/physics2/CUBoxObstacle.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/physics2/CUCapsuleObstacle.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/physics2/CUDistanceJoint.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/physics2/CUFrictionJoint.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/physics2/CUGearJoint.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/physics2/CUJoint.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/physics2/CUMotorJoint.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/physics2/CUMouseJoint.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/physics2/CUObstacle.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/physics2/CUObstacleSelector.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/physics2/CUObstacleWorld.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/physics2/CUPolygonObstacle.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/physics2/CUPrismaticJoint.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/physics2/CUPulleyJoint.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/physics2/CURevoluteJoint.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/physics2/CUWeldJoint.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/physics2/CUWheelJoint.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/physics2/CUWheelObstacle.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

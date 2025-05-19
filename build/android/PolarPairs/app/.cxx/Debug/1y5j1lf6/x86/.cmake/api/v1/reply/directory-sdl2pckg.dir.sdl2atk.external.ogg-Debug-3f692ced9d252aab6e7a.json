@@ -1,0 +1,160 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/ogg/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 137,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 150,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 167,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 173,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 196,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 197,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"sdl2pckg.dir/sdl2atk/external/ogg/libogg.a"
+			],
+			"targetId" : "ogg::@8d925c2cbb0d4e780e78",
+			"targetIndex" : 26,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "include/ogg",
+			"paths" : 
+			[
+				"/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/sdl2pckg.dir/sdl2atk/external/ogg/include/ogg/config_types.h",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/ogg/include/ogg/ogg.h",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/ogg/include/ogg/os_types.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/Ogg",
+			"exportName" : "OggTargets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "ogg::@8d925c2cbb0d4e780e78",
+					"index" : 26
+				}
+			],
+			"paths" : 
+			[
+				"sdl2pckg.dir/sdl2atk/external/ogg/CMakeFiles/Export/lib/cmake/Ogg/OggTargets.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/Ogg",
+			"paths" : 
+			[
+				"/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/sdl2pckg.dir/sdl2atk/external/ogg/OggConfig.cmake",
+				"/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/sdl2pckg.dir/sdl2atk/external/ogg/OggConfigVersion.cmake"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "lib/pkgconfig",
+			"paths" : 
+			[
+				"/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/sdl2pckg.dir/sdl2atk/external/ogg/ogg.pc"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "share/doc/SDL2_atk/html",
+			"paths" : 
+			[
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/ogg/doc/framing.html",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/ogg/doc/index.html",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/ogg/doc/oggstream.html",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/ogg/doc/ogg-multiplex.html",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/ogg/doc/fish_xiph_org.png",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/ogg/doc/multiplex1.png",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/ogg/doc/packets.png",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/ogg/doc/pages.png",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/ogg/doc/stream.png",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/ogg/doc/vorbisword2.png",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/ogg/doc/white-ogg.png",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/ogg/doc/white-xifish.png",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/ogg/doc/rfc3533.txt",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/ogg/doc/rfc5334.txt",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/ogg/doc/skeleton.html"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"destination" : "share/doc/SDL2_atk/html",
+			"paths" : 
+			[
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/ogg/doc/libogg"
+			],
+			"type" : "directory"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "sdl2pckg.dir/sdl2atk/external/ogg",
+		"source" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2atk/external/ogg"
+	}
+}

@@ -1,0 +1,15 @@
+Level 3
+7 11
+XXXXXXX
+XXXXXXX
+XXXXXXX
+X.....X
+X$....X
+X.....X
+X...*SX
+XB^...X
+XXXXXXX
+XXXXXXX
+XXXXXXX
+6
+6

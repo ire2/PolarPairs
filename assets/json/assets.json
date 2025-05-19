@@ -1,0 +1,530 @@
+{
+  "textures": {
+    "logo": {
+      "file": "textures/Logo.png",
+      "minfilter": "linear-linear",
+      "magfilter": "linear",
+      "mipmaps": true,
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "PolarPairsTextTitle": {
+      "file": "textures/PolarPairsTextTitle.png",
+      "minfilter": "linear",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "BearTitleIMG": {
+      "file": "textures/BearTitleIMG.png",
+      "minfilter": "linear",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "SealTitleIMG": {
+      "file": "textures/SealTitleIMG.png",
+      "minfilter": "linear",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "BearSealIMG": {
+      "file": "textures/BearSealIMG.png",
+      "minfilter": "linear",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "LevelMenuTitle": {
+      "file": "textures/LevelMenuTitle.png",
+      "minfilter": "linear",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "SeaBackground": {
+      "file": "textures/SeaBackground.png",
+      "minfilter": "linear",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "TapToStart": {
+      "file": "textures/TapToStart.png",
+      "minfilter": "linear",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Level1_Up": {
+      "file": "textures/levelbuttons/Level1_Up.png",
+      "minfilter": "nearest",
+      "magfilter": "nearest",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Level1_Down": {
+      "file": "textures/levelbuttons/Level1_Down.png",
+      "minfilter": "nearest",
+      "magfilter": "nearest",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Level2_Up": {
+      "file": "textures/levelbuttons/Level2_Up.png",
+      "minfilter": "nearest",
+      "magfilter": "nearest",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Level2_Down": {
+      "file": "textures/levelbuttons/Level2_Down.png",
+      "minfilter": "nearest",
+      "magfilter": "nearest",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Level3_Up": {
+      "file": "textures/levelbuttons/Level3_Up.png",
+      "minfilter": "nearest",
+      "magfilter": "nearest",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Level3_Down": {
+      "file": "textures/levelbuttons/Level3_Down.png",
+      "minfilter": "nearest",
+      "magfilter": "nearest",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Level4_Up": {
+      "file": "textures/levelbuttons/Level4_Up.png",
+      "minfilter": "nearest",
+      "magfilter": "nearest",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Level4_Down": {
+      "file": "textures/levelbuttons/Level4_Down.png",
+      "minfilter": "nearest",
+      "magfilter": "nearest",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Level5_Up": {
+      "file": "textures/levelbuttons/Level5_Up.png",
+      "minfilter": "nearest",
+      "magfilter": "nearest",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Level5_Down": {
+      "file": "textures/levelbuttons/Level5_Down.png",
+      "minfilter": "nearest",
+      "magfilter": "nearest",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Level6_Up": {
+      "file": "textures/levelbuttons/Level6_Up.png",
+      "minfilter": "nearest",
+      "magfilter": "nearest",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Level6_Down": {
+      "file": "textures/levelbuttons/Level6_Down.png",
+      "minfilter": "nearest",
+      "magfilter": "nearest",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Level7_Up": {
+      "file": "textures/levelbuttons/Level7_Up.png",
+      "minfilter": "nearest",
+      "magfilter": "nearest",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Level7_Down": {
+      "file": "textures/levelbuttons/Level7_Down.png",
+      "minfilter": "nearest",
+      "magfilter": "nearest",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Level8_Up": {
+      "file": "textures/levelbuttons/Level8_Up.png",
+      "minfilter": "nearest",
+      "magfilter": "nearest",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Level8_Down": {
+      "file": "textures/levelbuttons/Level8_Down.png",
+      "minfilter": "nearest",
+      "magfilter": "nearest",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Level9_Up": {
+      "file": "textures/levelbuttons/Level9_Up.png",
+      "minfilter": "nearest",
+      "magfilter": "nearest",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Level9_Down": {
+      "file": "textures/levelbuttons/Level9_Down.png",
+      "minfilter": "nearest",
+      "magfilter": "nearest",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Level10_Up": {
+      "file": "textures/levelbuttons/Level10_Up.png",
+      "minfilter": "nearest",
+      "magfilter": "nearest",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Level10_Down": {
+      "file": "textures/levelbuttons/Level10_Down.png",
+      "minfilter": "nearest",
+      "magfilter": "nearest",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Level11_Up": {
+      "file": "textures/levelbuttons/Level11_Up.png",
+      "minfilter": "nearest",
+      "magfilter": "nearest",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Level11_Down": {
+      "file": "textures/levelbuttons/Level11_Down.png",
+      "minfilter": "nearest",
+      "magfilter": "nearest",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Level12_Up": {
+      "file": "textures/levelbuttons/Level12_Up.png",
+      "minfilter": "nearest",
+      "magfilter": "nearest",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Level12_Down": {
+      "file": "textures/levelbuttons/Level12_Down.png",
+      "minfilter": "nearest",
+      "magfilter": "nearest",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "snowground": {
+      "file": "textures/SnowGround.png",
+      "minfilter": "nearest",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "regularblock": {
+      "file": "textures/regularblock.png",
+      "minfilter": "nearest",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "bearblock": {
+      "file": "textures/BearBlock.png",
+      "minfilter": "nearest",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "penguinblock": {
+      "file": "textures/PenguinBlock.png",
+      "minfilter": "nearest",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "polarbear": {
+      "file": "textures/PolarBear.png",
+      "minfilter": "nearest",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "penguin": {
+      "file": "textures/Penguin.png",
+      "minfilter": "nearest",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "breakableblock": {
+      "file": "textures/BreakableBlock.png",
+      "minfilter": "nearest",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "bearfinish": {
+      "file": "textures/BearFinish.png",
+      "minfilter": "nearest",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "penguinfinish": {
+      "file": "textures/PenguinFinish.png",
+      "minfilter": "nearest",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Restart": {
+      "file": "textures/Restart.png",
+      "minfilter": "linear",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Pause": {
+      "file": "textures/Pause.png",
+      "minfilter": "linear",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Pause_Pressed": {
+      "file": "textures/Pause_Pressed.png",
+      "minfilter": "linear",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Restart_Pressed": {
+      "file": "textures/Restart_Pressed.png",
+      "minfilter": "linear",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Exit_Up": {
+      "file": "textures/Exit_Up.png",
+      "minfilter": "linear",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Exit_Down": {
+      "file": "textures/Exit_Down.png",
+      "minfilter": "linear",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Next_Up": {
+      "file": "textures/Next_Up.png",
+      "minfilter": "linear",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Next_Down": {
+      "file": "textures/Next_Down.png",
+      "minfilter": "linear",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Resume_Up": {
+      "file": "textures/Resume_Up.png",
+      "minfilter": "linear",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Resume_Down": {
+      "file": "textures/Resume_Down.png",
+      "minfilter": "linear",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Paused": {
+      "file": "textures/Paused.png",
+      "minfilter": "linear",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "NoStar": {
+      "file": "textures/NoStar.png",
+      "minfilter": "linear",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "OneStar": {
+      "file": "textures/OneStar.png",
+      "minfilter": "linear",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "TwoStars": {
+      "file": "textures/TwoStars.png",
+      "minfilter": "linear",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "ThreeStars": {
+      "file": "textures/ThreeStars.png",
+      "minfilter": "linear",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Question_Up": {
+      "file": "textures/Question_Up.png",
+      "minfilter": "linear",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Question_Down": {
+      "file": "textures/Question_Down.png",
+      "minfilter": "linear",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Return_Up": {
+      "file": "textures/Return_Up.png",
+      "minfilter": "linear",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Return_Down": {
+      "file": "textures/Return_Down.png",
+      "minfilter": "linear",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Instruction": {
+      "file": "textures/Instruction.png",
+      "minfilter": "linear",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "LevelFinished": {
+      "file": "textures/LevelFinished.png",
+      "minfilter": "linear",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "Highest": {
+      "file": "textures/Highest.png",
+      "minfilter": "linear",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "BreakIceSS": {
+			"file": "animation/BreakIceSS.png"
+		},
+    "BearFlag": {
+      "file": "textures/BearFlag.png",
+      "minfilter": "nearest",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    },
+    "SealFlag": {
+      "file": "textures/SealFlag.png",
+      "minfilter": "nearest",
+      "magfilter": "linear",
+      "wrapS": "clamp",
+      "wrapT": "clamp"
+    }
+  },
+  "fonts": {
+  },
+  "filmstrips": {
+    "break-ice-strip": {
+      "texture": "BreakIceSS",
+      "span": 6,
+      "cols": 3
+    }
+  },
+  "widgets": {
+    "StartButton": "widgets/StartButton.json"
+  },
+  "scene2s": {
+    "StartPage": {
+      "type": "Widget",
+      "comment": "This is the root node for the start page",
+      "format": {
+        "type": "Anchored"
+      },
+      "data": {
+        "key": "StartButton"
+      }
+    }
+  },
+  "sounds": {
+    "buttonSound": {
+      "type": "sample",
+      "file": "sounds/ButtonPressed.wav",
+      "stream": false
+    },
+    "squeezeSound": {
+      "type": "sample",
+      "file": "sounds/Squeeze.wav",
+      "stream": false
+    },
+    "blockedSound": {
+      "type": "sample",
+      "file": "sounds/Blocked.wav",
+      "stream": false
+    },
+    "moveSound": {
+      "type": "sample",
+      "file": "sounds/Move.wav",
+      "stream": false
+    },
+    "iceBreakSound": {
+      "type": "sample",
+      "file": "sounds/IceBreak.wav",
+      "stream": false
+    },
+    "finishBlockSound": {
+      "type": "sample",
+      "file": "sounds/FinishBlock.wav",
+      "stream": false
+    },
+    "levelCompleteSound": {
+      "type": "sample",
+      "file": "sounds/LevelComplete.wav",
+      "stream": false
+    },
+    "backgroundMusic": {
+      "type": "sample",
+      "file": "sounds/BackgroundLoop.ogg",
+      "stream": true
+    }
+  }
+}
+

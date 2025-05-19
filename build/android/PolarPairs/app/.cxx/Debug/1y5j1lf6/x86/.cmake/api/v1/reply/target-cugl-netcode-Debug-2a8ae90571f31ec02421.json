@@ -1,0 +1,283 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "cugl.dir/libcugl-netcode.a"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"target_link_libraries",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"/Users/ignacioestrada/game_design/cugl/buildfiles/android/jni/cugl/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 163,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 164,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 165,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC"
+				},
+				{
+					"fragment" : "-std=gnu++20"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 2,
+					"define" : "RTC_ENABLE_MEDIA=1"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "RTC_ENABLE_WEBSOCKET=1"
+				},
+				{
+					"backtrace" : 2,
+					"define" : "RTC_STATIC"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 3,
+					"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/.cxx/Debug/1y5j1lf6/x86/cugl.dir"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/jni/../../../../../../cugl/sdlapp/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/jni/../../../../../../cugl/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/jni/../../../../../../cugl/external/box2d/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/jni/../../../../../../cugl/external/poly2tri/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/Users/ignacioestrada/game_design/skipclass_studios/build/android/PolarPairs/app/jni/../../../../../../cugl/external/libdatachannel/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/Users/ignacioestrada/game_design/cugl/buildfiles/android/jni/cugl/../../../../include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/Users/ignacioestrada/game_design/cugl/buildfiles/android/jni/cugl/../../../../sdlapp/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/Users/ignacioestrada/game_design/cugl/buildfiles/android/jni/cugl/../../../../external/poly2tri"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/Users/ignacioestrada/game_design/cugl/buildfiles/android/jni/cugl/../../../../external/box2d/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/Users/ignacioestrada/game_design/cugl/buildfiles/android/jni/cugl/../../../../external/libdatachannel/include"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/Users/ignacioestrada/Library/Android/sdk/ndk/25.1.8937393/sources/android/cpufeatures"
+				},
+				{
+					"backtrace" : 2,
+					"path" : "/Users/ignacioestrada/game_design/cugl/buildfiles/cmake/external/libdatachannel/../../../../external/libdatachannel/include"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "20"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"sysroot" : 
+			{
+				"path" : "/Users/ignacioestrada/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot"
+			}
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "datachannel::@655936202e2b580ddf9b"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "usrsctp::@222b707369e545553aca"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "crypto::@8bec0725f26d26b0a90f"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "ssl::@e57b51676e37372d2007"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "srtp2::@5e5c0248c990b7300543"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "juice::@86f68ca494d33377e9ec"
+		}
+	],
+	"id" : "cugl-netcode::@d4cbbc5a9c7fb51d83b7",
+	"name" : "cugl-netcode",
+	"nameOnDisk" : "libcugl-netcode.a",
+	"paths" : 
+	{
+		"build" : "cugl.dir",
+		"source" : "/Users/ignacioestrada/game_design/cugl/buildfiles/android/jni/cugl"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/netcode/CUICEAddress.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/netcode/CUInetAddress.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/netcode/CUNetcodeChannel.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/netcode/CUNetcodeConfig.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/netcode/CUNetcodeConnection.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/netcode/CUNetcodePeer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/netcode/CUNetcodeSerializer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/netcode/CUNetworkLayer.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/netcode/CUWebSocket.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/netcode/CUWebSocketConfig.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/ignacioestrada/game_design/cugl/source/netcode/CUWebSocketServer.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

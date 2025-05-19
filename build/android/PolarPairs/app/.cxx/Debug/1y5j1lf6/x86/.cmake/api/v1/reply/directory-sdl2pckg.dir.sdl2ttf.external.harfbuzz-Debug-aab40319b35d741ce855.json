@@ -1,0 +1,74 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2ttf/external/harfbuzz/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 735,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "include/harfbuzz",
+			"paths" : 
+			[
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/harfbuzz/src/hb-aat-layout.h",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/harfbuzz/src/hb-aat.h",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/harfbuzz/src/hb-blob.h",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/harfbuzz/src/hb-buffer.h",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/harfbuzz/src/hb-common.h",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/harfbuzz/src/hb-cplusplus.hh",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/harfbuzz/src/hb-deprecated.h",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/harfbuzz/src/hb-draw.h",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/harfbuzz/src/hb-face.h",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/harfbuzz/src/hb-font.h",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/harfbuzz/src/hb-map.h",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/harfbuzz/src/hb-ot-color.h",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/harfbuzz/src/hb-ot-deprecated.h",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/harfbuzz/src/hb-ot-font.h",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/harfbuzz/src/hb-ot-layout.h",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/harfbuzz/src/hb-ot-math.h",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/harfbuzz/src/hb-ot-meta.h",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/harfbuzz/src/hb-ot-metrics.h",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/harfbuzz/src/hb-ot-name.h",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/harfbuzz/src/hb-ot-shape.h",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/harfbuzz/src/hb-ot-var.h",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/harfbuzz/src/hb-ot.h",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/harfbuzz/src/hb-paint.h",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/harfbuzz/src/hb-set.h",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/harfbuzz/src/hb-shape-plan.h",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/harfbuzz/src/hb-shape.h",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/harfbuzz/src/hb-style.h",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/harfbuzz/src/hb-unicode.h",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/harfbuzz/src/hb-version.h",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/harfbuzz/src/hb.h",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/harfbuzz/src/hb-ft.h",
+				"/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/../../external/harfbuzz/src/hb-subset.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "sdl2pckg.dir/sdl2ttf/external/harfbuzz",
+		"source" : "/Users/ignacioestrada/game_design/cugl/sdlapp/buildfiles/cmake/sdl2ttf/external/harfbuzz"
+	}
+}
